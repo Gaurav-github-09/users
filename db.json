@@ -1,4 +1,4 @@
-["users":[
+{"users":[
   {
     "id": 1,
     "firstName": "Gaurav",
@@ -36,4 +36,4 @@
     "email": "Kishore@gmail.com",
   "department":"hardware"
   }
-]]
+]}
