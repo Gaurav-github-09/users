@@ -1,4 +1,4 @@
-[
+["users":[
   {
     "id": 1,
     "firstName": "Gaurav",
@@ -25,9 +25,15 @@
   "department":"software"
   },{
     "id": 5,
-    "firstName": "Sidhu",
+    "firstName": "Parmesh",
     "lastName": "Singh",
     "email": "singh@gmail.com",
   "department":"sports"
+  },{
+    "id": 6,
+    "firstName": "Kishore",
+    "lastName": "Singh",
+    "email": "Kishore@gmail.com",
+  "department":"hardware"
   }
-]
+]]
