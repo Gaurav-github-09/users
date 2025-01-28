@@ -1,39 +1,39 @@
-{"users":[
-  {
+["users": [ {
     "id": 1,
     "firstName": "Gaurav",
     "lastName": "Kumar",
     "email": "vgk@gmail.com",
   "department":"software"
-  },{
+  } , {
     "id": 2,
     "firstName": "Sudha",
     "lastName": "Keerthy",
     "email": "sudha@gmail.com",
   "department":"teaching"
-  },{
+  } , { 
     "id": 3,
     "firstName": "Manoj",
     "lastName": "Rao",
     "email": "Manoj@gmail.com",
   "department":"chemical"
-  },{
+  } , {
     "id": 4,
     "firstName": "Pavani",
     "lastName": "Naidu",
     "email": "pavani@gmail.com",
   "department":"software"
-  },{
+  } , {
     "id": 5,
     "firstName": "Parmesh",
     "lastName": "Singh",
     "email": "singh@gmail.com",
   "department":"sports"
-  },{
+  } ,   {
     "id": 6,
     "firstName": "Kishore",
     "lastName": "Singh",
     "email": "Kishore@gmail.com",
   "department":"hardware"
   }
-]}
+         ]
+]
